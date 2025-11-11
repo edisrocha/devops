@@ -1,5 +1,3 @@
-# devops
-
 # DevOps Lab Local (Arch Linux)
 
 > **Laboratório completo de DevOps rodando 100% localmente** **Arch Linux**.
