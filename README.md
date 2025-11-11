@@ -2,7 +2,7 @@
 
 # DevOps Lab Local (Arch Linux)
 
-> **Laboratório completo de DevOps rodando 100% localmente** no meu Samsung NP270E (i3 2012) com **Arch Linux**.
+> **Laboratório completo de DevOps rodando 100% localmente** **Arch Linux**.
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%23FF6F61?style=for-the-badge)
